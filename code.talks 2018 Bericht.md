@@ -6,19 +6,19 @@
 
 ESONO bietet seinen Entwicklern pro Jahr fünf RnD (Research and Development) Tage an. In diesen Tagen kann jeder Entwickler selbst entscheiden, mit was er sich gerne beschäftigen würde. Eine Option ist auch der Besuch einer Konferenz. Ein Kollege und ich entschieden uns für letzteres und ich will ein paar Worte über unsere Erfahrung dort verlieren.
 
-Alle Meinungen und Bewertungen über Sachverhalte, Talks und Teilnehmer sind natürlich meine ganz persönlichen unr repräsentieren nicht zwangsläufig die Einstellung von ESONO und dessen Mitarbeiter.
+Alle Meinungen und Bewertungen über Sachverhalte, Talks und Teilnehmer sind natürlich meine ganz persönlichen und repräsentieren nicht zwangsläufig die Einstellung von ESONO und dessen Mitarbeiter.
 
 ## Die Veranstaltung
 
 ![](IMG_0645.jpg)
 
-Die code.talks sind eine non-profit Veranstalung, die sich an Entwickler aus allen Bereichen wendet. Durch die aktuelle IT Landschaft konzwntrierten sich viele Talks aber auf den Bereich der Webentwicklung.
+Die code.talks sind eine non-profit Veranstalung, die sich an Entwickler aus allen Bereichen wendet. Durch die aktuelle IT Landschaft konzentrierten sich viele Talks aber auf den Bereich der Webentwicklung.
 
-Die Veranstaltung wird finanziert von Sonsoren und AboutYou. Es werden auch kostenlose Tickets an Studenten und Programmierer in der Ausbildung gegeben, um den Nachwuchs zu fördern. Das Konzept ist sehr zu begrüßen und sorgte dafür, dass das Publikum nicht nur aus Abgesandten großer Firmen bestand.
+Die Veranstaltung wird finanziert von Sponsoren und AboutYou. Es werden auch kostenlose Tickets an Studenten und Programmierer in der Ausbildung gegeben, um den Nachwuchs zu fördern. Das Konzept ist sehr zu begrüßen und sorgte dafür, dass das Publikum nicht nur aus Abgesandten großer Firmen bestand.
 
 ![](IMG_0644.jpg)
 
-Auch wenn es auffällt, dass beispielsweise im Vergleich zu der jährlichen Symfony Live durchaus einige weibliche Mitglieder der Community anzutreffen waren, beklagte der Veranstalter bei der Eröffnung die immer noch eklatante Geschlächterverhältnis. Die Veranstaltung gibt sich sehr viel Mühe, unterrepräsentierte Gruppen besser zu fördern und auf der Veranstaltung zu begrüßen. Das gelinge allerdings trozt starker Bemühungen immer noch nicht zufriedenstellend.
+Auch wenn es auffällt, dass beispielsweise im Vergleich zu der jährlichen Symfony Live durchaus einige weibliche Mitglieder der Community anzutreffen waren, beklagte der Veranstalter bei der Eröffnung das immer noch eklatante Geschlächterverhältnis. Die Veranstaltung gibt sich sehr viel Mühe, unterrepräsentierte Gruppen besser zu fördern und auf der Veranstaltung zu begrüßen. Das gelinge allerdings trotz starker Bemühungen immer noch nicht zufriedenstellend.
 
 ## Die Location
 
