@@ -26,7 +26,7 @@ Die code.talks fanden - wie jedes Jahr - in einem Cinemaxx Kino statt. Ein Kino 
 
 ![](IMG_0604.jpg)
 
-Kinosessel sind für einen zwei Stunden langen Film vielleicht noch in Ordnung, wenn man allerdings zwei Tage hintereinander insgesammt gefühlte 80000 Stunden in ihnen verbringt, schwindet die Begeisterung ein wenig. Gepaart mit schindendem Sauerstoffgehalt in der Luft und fehlendem Sonnenlicht, stellt das ganze dann eine Herausforderung der ganz besonderen Sorte dar. 
+Kinosessel sind für einen zwei Stunden langen Film vielleicht noch in Ordnung, wenn man allerdings zwei Tage hintereinander insgesammt gefühlte 80000 Stunden in ihnen verbringt, schwindet die Begeisterung ein wenig. Gepaart mit schwindendem Sauerstoffgehalt in der Luft und fehlendem Sonnenlicht, stellt das ganze dann eine Herausforderung der ganz besonderen Art dar. 
 
 ## ESONO bei den code.talks
 
@@ -34,11 +34,11 @@ ESONO schickte einen Kollegen und mich zu der ausverkauften Veranstaltung 2018.
 
 Laut Veranstalter gab es mehrere hundert Entwickler auf der Warteliste für Tickets. Diese müssen sich allerdings wirklich auf den letzten Drücker angemeldet haben, da auch ESONO die Tickets erst in der Woche der Veranstaltung online bestellte. 
 
-## Die tracks
+## Die Tracks
 
-Die Veranstaltung bot insgesamt 16 Tracks an, die von Mobile, über Management bis zu Security reichten und im Grunde das komplette Spektrum der Entwicklerszene abdeckten. Pro Slot gab es 8 parallele Tracks, was durchaus zu einigen Konflikten führen konnte, auch wenn die Track hinreichend unterschiedlich waren, sodass man ein einigermaßen konsistentes Konferenzprogramm zusammenstellen konnte, ohne auf persönliche must-see Vorträge verzichten zu müssen.
+Die Veranstaltung bot insgesamt 16 Tracks an, die von Mobile, über Management bis zu Security reichten und im Grunde das komplette Spektrum der Entwicklerszene abdeckten. Pro Slot gab es 8 parallele Tracks, was durchaus zu einigen Konflikten führen konnte, auch wenn die Tracks hinreichend unterschiedlich waren, sodass man ein einigermaßen konsistentes Konferenzprogramm zusammenstellen konnte, ohne auf persönliche must-see Vorträge verzichten zu müssen.
 
-Die Talks, die hier vorgestellt werden, sind diejenigen, für die ich mich entschieden habe. Über die anderen kann ich leider nichts sagen. Diese wurden zwar aufgezeichnet, aber wann und ob diese veröffentlich werden, konnte mir niemand so recht beantworten.
+Die Talks, die hier vorgestellt werden, sind diejenigen, für die ich mich entschieden habe. Über die anderen kann ich leider nichts sagen. Diese wurden zwar aufgezeichnet, aber wann und ob diese veröffentlicht werden, konnte mir niemand so recht beantworten.
 
 ## Welcome Speech
 
@@ -48,7 +48,7 @@ Auch wenn der Talk einige interessante Punkte und Informationen enthielt, geriet
 
 ![](IMG_0587.jpg)
 
-Es wurden auch die Tracks einzeln vom dem jeweiligen Kuratoren vorgestellt. Das ist im Prinzip eine gute Idee, allerdings artete es ein bisschen in eine trockene Aufzählung der Vortäge aus. Das war redundant und nicht informativ. Dennoch begrüße ich diese Art der Einführungsveranstaltung. sie ist ein guter Einstieg, der die Motivation und das Konzept einer Konferenz zeigt.
+Es wurden auch die Tracks einzeln von den jeweiligen Kuratoren vorgestellt. Das ist im Prinzip eine gute Idee, allerdings artete es ein bisschen in eine trockene Aufzählung der Vortäge aus. Das war redundant und nicht informativ. Dennoch begrüße ich diese Art der Einführungsveranstaltung. Sie ist ein guter Einstieg, der die Motivation und das Konzept einer Konferenz aufzeigt.
 
 ## All your money belongs to us (me)
 
@@ -56,13 +56,11 @@ Es wurden auch die Tracks einzeln vom dem jeweiligen Kuratoren vorgestellt. Das 
 
 Auf vergangenen Veranstaltungen des Chaos Computer Clubs hat man bereits sehr interessante Vorträge zum Thema gesehen: Das Kompromittieren von Mobile Banking Apps.
 
-Einen ähnlichen Vortrag hatte ich mir hier erwartet und wurde leider ein wenig enttäuscht.
-
-Der beschriebene Angriff - am Beispiel der PayPal App - nutzte Code Injection zu Runtime.
+Der hier beschriebene Angriff - am Beispiel der PayPal App - nutzte Code Injection zu Runtime.
 
 ![](IMG_0590.jpg)
 
-Hier wird im Grunde direkt Java Code der laufenden App manipuliert. Das ist natürlich nur durch die Kompromittierung des Gerätes möglich, wogegen die App nicht wirklich etwas unternehmen kann, selbst wenn sie wollte. Aber Denis bemerkt, dass das vor allem ein PR Desaster für den Anbieter darstellt, was ein einteressanter Punkt ist. Konsumenten ist es egal, wie absurd der Angriff ist. Wenn er gezeigt wird, ist es das Problem des Anbieters.
+Hier wird direkt Java Code der laufenden App manipuliert. Das ist natürlich nur durch die Kompromittierung des Gerätes möglich, wogegen die App nicht wirklich etwas unternehmen kann, selbst wenn sie wollte. Aber Denis bemerkt, dass das vor allem ein PR Desaster für den Anbieter darstellt, was ein einteressanter Punkt ist. Konsumenten ist es egal, wie absurd der Angriff ist. Wenn er gezeigt wird, ist es das Problem des Anbieters.
 
 Wichtigster Hinweis des Vortrags zum Schutz vor derartigen Angriffen: Update your Phones!
 
@@ -70,7 +68,7 @@ Und da ich das auch noch mal betonen will, hier noch mal: Update. Your. Phones! 
 
 Dementsprechend sind auch hauptsächlich alte, niemals aktualisierte Android Telefone anfällig, oder wie Denis es nennt: "cheap china phones".
 
-Denis blieb beim gesamten Vortrag oberflächlich und gab einen nur im Ansatz technischen Einblick in die Methoden. Das ist kein Problem von Denis' Vortrag sondern von meinen Erwartungen. 
+Denis blieb beim gesamten Vortrag oberflächlich und gab einen nur im Ansatz technischen Einblick in die Methoden. Das hat mich ein wenig enttäuscht, aber das ist kein Problem von Denis' Vortrag sondern von meinen Erwartungen. 
 
 ## Predictive Analytics with Big Query
 
@@ -78,21 +76,21 @@ Denis blieb beim gesamten Vortrag oberflächlich und gab einen nur im Ansatz tec
 
 #### Ksenia Nekrasova - Google
 
-Ja, auch google war mit meheren Vorträgen bei den code.talks. Im Grunde wollte google hier ihre neuen Produkte im Bereich ML vorstellen.
+Auch google war mit meheren Vorträgen bei den code.talks. Im Grunde wollte google hier ihre neuen Produkte im Bereich ML vorstellen.
 
 ![](IMG_0592.jpg)
 
-Dieser Vortrag hatte allerdings den Fokus auf Big Query und wie man die Google Cloud zum analysieren riesiger Datenmengen nutzen kann.
+Dieser Vortrag hatte allerdings den Fokus auf Big Query und wie man die Google Cloud zum Analysieren riesiger Datenmengen nutzen kann.
 
 Als Beispiel nahmen Ksenia und Christopher einen Hotelbetrieb, der seine Kunden besser analysieren möchte, um den Service zu verbessern.
 
-Als Datenquellen dienten ein Loyality Program, Website Analytics, Hotel Properties und Room bookings. Alle Daten wurden zusammengesammelt und in ein google data warehouse gekippt. Das ganze System kann mit Daten von mehreren Petabytes umgehen. Dafür werden die Tables in einzelne Shards aufgeteilt, um sie besser skalieren zu können.
+Als Datenquellen dienten ein Loyality Program, Website Analytics, Hotel Properties und room bookings. Alle Daten wurden zusammengesammelt und in ein google data warehouse gekippt. Das ganze System kann mit Daten von mehreren Petabytes umgehen. Dafür werden die Tables in einzelne Shards aufgeteilt, um sie besser skalieren zu können.
 
 ![](IMG_0593.jpg)
 
-Die Daten liegen als semi-structured data types vor in Form von Structs und Arrays. Sie haben ein "Partial schema", was meines Erachtens nach "haben halt die selbe Form, haben wir aber nicht so wirklich definiert" klingt. Da sollte man sich wohl mal tiefer mit beschäftigen.
+Die Daten liegen als semi-structured data types vor in Form von Structs und Arrays. Sie haben ein "Partial Schema", was meines Erachtens nach "haben die selbe Form, die wir aber nicht so wirklich definiert haben" klingt. Da sollte man sich wohl mal tiefer mit beschäftigen.
 
-Wichtige Daten für das Hotel waren zum Beispiel Searchterms (honeymoon, cheap hotel, parking opportunities). Dadurch findet man die Zielgruppen (Business, Couples, Family...) und man in der Folge personalisierte Newsletter generieren.
+Wichtige Daten für das Hotel waren zum Beispiel Searchterms (honeymoon, cheap hotel, parking opportunities). Dadurch findet man die Zielgruppen (Business, Couples, Family...) und man kann in der Folge beispielsweise personalisierte Newsletter generieren.
 
 Der Vorteil dabei, solche Analysen in der Google Cloud zu machen, liegt natürlich darin, sich nicht um Infrastruktur und Skalierbarkeit kümmern zu müssen.
 
@@ -108,21 +106,21 @@ Insgesamt war das ein schöner Talk mit Live Demo und kompetenten Speakern.
 
 #### Gerhard Giese - Akamai
 
-Gerhard fing gleich mal mit den berühmt berüchtigten 419 Scam Mails an. Das sind die mit dem Millionen Erbe aus Nigeria, dessen glückliche Empfänger wir sind. Er ließ es sich auch nicht nehmen, dabei auf das sensationelle 419eater.com hinzuweisen.
+Gerhard fing gleich mit den berühmt berüchtigten 419 Scam Mails an. Das sind die mit dem Millionen Erbe aus Nigeria, dessen glückliche Empfänger wir sind. Er ließ es sich auch nicht nehmen, dabei auf das sensationelle 419eater.com hinzuweisen.
 
 ![](IMG_0596.jpg)
 
 Erstaunlicherweise sind diese Scam Mails - so absurd und offensichtlich sie sind - bis heute erfolgreich. Es gibt immer noch Opfer, die darauf hereinfallen. Sein Fazit dazu: "Gier ist ein schlechter Berater".
 
-Desweiteren stelle Gerhard eine Drohung vor, die mir bisher noch nicht untergekommen ist, die aber wohl auch verbreitet ist: Zahle oder DDoS. Auf die Frage, ob man denn zahlen sollte, meinte er, dass dann nur der nächste kommen würde, da es einfach zu viele socher Kiriminellen gibt. Er würde aber nicht so weit gehen, sie als vernetzt anzusehen, nach dem Motto: "Schau mal, der hat bei mir gezahlt, greif den mal an!"
+Desweiteren stelle Gerhard eine Drohung vor, die mir bisher noch nicht untergekommen ist, die aber wohl auch verbreitet ist: Zahle oder wir fahren eine DDoS Attacke auf deinen Server. Auf die Frage, ob man denn zahlen sollte, meinte er, dass dann nur der nächste kommen würde, da es einfach zu viele socher Kriminellen gibt. Er würde aber nicht so weit gehen, sie als vernetzt anzusehen, nach dem Motto: "Schau mal, der hat bei mir gezahlt, greif den mal an!"
 
 ![](IMG_0598.jpg)
 
 Am häuigsten wird Retail Opfer dieser Angriffe.
 
-Gerhard stellte außerdem den schöner Angriffsvektor vor: Sonos hacken und darüber Alexa steuern. Next Level: Per Ultraschall mit Siri sprechen. Das klingt lustig und abgefahren, ist aber ein realer Angriff.
+Gerhard stellte außerdem folgenden schönen Angriffsvektor vor: Sonos hacken und darüber Alexa steuern. Next Level: Per Ultraschall mit Siri sprechen. Das klingt lustig und abgefahren, ist aber ein realer Angriff.
 
-Sein Rat: Als Programmierer den Hut abnehmen und die Hacker Basecap aufsetzen. Mal aus der Box steigen. Das ist sicherlich ein guter Hinweis, den so einige Entwickler mal beherzigen sollten.
+Sein Rat: Als Programmierer den Hut abnehmen, die Hacker Basecap aufsetzen und mal aus der Box steigen. Das ist sicherlich ein guter Hinweis, den so einige Entwickler beherzigen sollten.
 
 ![](IMG_0601.jpg)
 
@@ -132,19 +130,19 @@ Ein sehr unterhaltsamer und informativer Talk.
 
 #### Roland Golla - Never Code Alone
 
-Roland erlitt vor einiger Zeit einen Nervenzusammenbruch. Als Auslöser beschrieb er im Grunde das, womit so ziemlich jeder Entwickler tagtäglich zu kämpfen hat:
+Roland erlitt vor einiger Zeit einen Nervenzusammenbruch. Als Auslöser beschrieb er das, womit so ziemlich jeder Entwickler tagtäglich zu kämpfen hat:
 
-Es kommen immer mehr Tickets, immer mehr Bugs, die Arbeit wird zur Kesselflickerei, weil ja keine Zeit für gescheite Lösungen da ist, das führt zu noch mehr Bugs, noch mehr Tickets etc.
+Es kommen immer mehr Tickets, immer mehr Bugs, die Arbeit wird zur Kesselflickerei, weil keine Zeit für gescheite Lösungen da ist, das führt zu noch mehr Bugs, noch mehr Tickets etc.
 
 ![](IMG_0608.jpg)
 
 Das klingt übertrieben, aber so ist es leider in vielen Betrieben.
 
-Außerdem gibt er den guten Hinweis: Wenn du nur alten Legacy Code fixt, bist du nichts mehr Wert auf dem Markt, da Technologie voran schreitet, du selbst aber nicht. Das ist ein Hinweis, der sich durch die gesamte Veranstaltung und durch mehrere Talks hindurchzieht. Es scheint sich also wirklich um ein vorherrschendes Problem in der Entwicklerszene zu handeln. Entwickler verheizen sich mit dem Flicken alten Codes und werden dadurch nicht nur depressiv, sondern nehmen sich nach und nach auch immer mehr die Möglichkeit, am Markt noch mal zu was besserem zu kommen.
+Außerdem gibt er den guten Hinweis: Wenn du nur alten Legacy Code fixt, bist du nichts mehr Wert auf dem Markt, da Technologie voran schreitet, du selbst aber nicht. Das ist ein Hinweis, der sich durch die gesamte Veranstaltung und durch mehrere Talks hindurchzieht. Es scheint sich also um ein vorherrschendes Problem in der Entwicklerszene zu handeln. Entwickler verheizen sich mit dem Flicken alten Codes und werden dadurch nicht nur depressiv, sondern nehmen sich nach und nach auch immer mehr die Möglichkeit, am Markt noch mal zu etwas besserem zu kommen.
 
 ![](IMG_0610.jpg)
 
-Bekämpft den Burn Out, fordert gute Bedingungen ein, schaut auf euch und eire Gesundheit. Mehr kann ich dazu auch nicht sagen.
+Bekämpft den Burn Out, fordert gute Bedingungen ein, schaut auf euch und eure Gesundheit. Mehr kann ich dazu auch nicht sagen.
 
 ## Hilfe - Kind im Brunnen: Systematisch technische Schulden abbauen
 
@@ -184,15 +182,17 @@ Guus beschreibt in seinem Talk das experimentelle Feature des WebAssembly compli
 
 ![](IMG_0616.jpg)
 
-WebAssembly ist ein Binary Instruction Format für den Browser, das im Vergleich zu JavaScript eine kleinere Dateigröße und eine schnellere Ausführung bietet. Das mit der kleineren Dateigröße ist aber aktuell bei wasm Modulen, die aus go kommen, noch nicht wirklich gegeben, da diese immer mindestens 2MB groß sind. Dafür genießt man die Vorteile von go, also zum Beispiel bestehende Libraries und Typensicherheit.
+WebAssembly ist ein Binary Instruction Format für den Browser, das im Vergleich zu JavaScript eine kleinere Dateigröße und eine schnellere Ausführung bietet. Das mit der kleineren Dateigröße ist aber aktuell bei wasm Modulen, die aus go kommen, noch nicht wirklich gegeben, da diese immer mindestens 2MB (500kb compressed) groß sind. Dafür genießt man die Vorteile von go, also zum Beispiel bestehende Libraries und Typensicherheit.
 
-Theoretisch ist es dadurch auch möglich, den selben Code im Frontend und Backend zu verwenden (code sharing). Das ist aber etwas, das in meiner Erfahrung immer nur im theoretischen Beispiel (Input Validation) vorkommt und in der Praxis so gut wie nie hilfreich ist. Frontend und Backend sind zwei derart unterscheidliche Welten, da ist fehlendes Codesharing das letzte Problem, das mit einfällt.Effektiver, Standardisiert, Sandboxed, Support für mehr Sprachen
+Theoretisch ist es dadurch auch möglich, den selben Code im Frontend und Backend zu verwenden (code sharing). Das ist aber etwas, das in meiner Erfahrung immer nur im theoretischen Beispiel (Input Validation) vorkommt und in der Praxis so gut wie nie hilfreich ist. Frontend und Backend sind zwei derart unterscheidliche Welten, da ist fehlendes Codesharing das letzte Problem, das mir einfällt.
+
+Darüber hinaus ist wasm aber sicherlich effektiver, standardisiert, sandboxed und bietet support für viele unterschiedliche Sprachen.
 
 WebAssembly unterstützt aktuell noch keine nativen DOM APIs. Hierfür muss noch Gluecode herhalten.
 
 Außerdem besteht noch kein Multithreading support.
 
-Ich werden später noch ein mal etwas auf WebAssembly eingehen in einem späteren Talk.
+Ich werden noch ein mal etwas auf WebAssembly eingehen in einem späteren Talk.
 
 ## Building smarter apps with Machine Learning, from magic to reality
 
@@ -202,7 +202,7 @@ Wieder ein Vortrag von google, dieses mal mit dem sehr sympatischen Franzosen La
 
 ![](IMG_0628.jpg)
 
-Das besondere an seinem Talk war, dass er das Publikum mit einbezog, was sehr sehr mutig ist. Das Publikum war aber dankbar und bestrafte ihn nicht für seinen Mut. 
+Das besondere an seinem Talk war, dass er das Publikum mit einbezog, was sehr mutig ist. Das Publikum war aber dankbar und bestrafte ihn nicht für seinen Mut. 
 
 Für die Visions API ließ er die Besucher Selfies hochladen, die dann mit einem Schnurrbart versehen wurden. Außerdem interpretierte die API die aktuelle Laune des Besuchers und gab Statistiken aus.
 
@@ -210,15 +210,15 @@ Für die Visions API ließ er die Besucher Selfies hochladen, die dann mit einem
 
 Für die Translation API ließ er sich dann Texte schicken, die nach Englisch übersetzt wurden. Auch hier wurde die Emotion von dem Service interpretiert und prozentual ausgegeben.
 
-Kurz stellte Laurent auch noch die Text-To-Speech API vor, welcher er in einem persönlichen Gespräch danach auch durchaus eine Creepiness zusagte.
+Kurz stellte Laurent auch noch die Text-To-Speech API vor, welcher er in einem persönlichen Gespräch danach auch durchaus eine gewisse  Creepiness zusagte.
 
 ![](IMG_0631.jpg)
 
-AutoML kam zur Sprache. Damit kann man seine eigenen Daten trainieren und eine eigene API in der Cloud haben. Als Beispiel stellter vor, wie man damit der Visions API beibringen kann, nicht nur Wolken als solche zu erkennen, sondern auch deren Typ. Hierzu trainiert man AutoML mit eigenen Bilddaten. 
+AutoML kam ebendalls zur Sprache. Damit kann man seine eigenen Daten trainieren und eine eigene API in der Cloud haben. Als Beispiel stellte er vor, wie man damit der Visions API beibringen kann, nicht nur Wolken als solche zu erkennen, sondern auch deren Typ. Hierzu trainiert man AutoML mit eigenen Bilddaten. 
 
 ![](IMG_0636.jpg)
 
-Ich persönlich finde diese Beispiele immer etwas schwierig, da sie Einfachheit vorspielen. Klar, auf einem technischen Level ist das alles viel simpler, als auf einer grünen Wiese damit zu beginnen. Aber so eine Wolkenerkennung trainiert sich auch nicht mit 3 getagten Bildern. Im Beipspiel trainierte er den Service mit hunderten getagter Bilder pro Wolkenart. DIese muss man eben auch erst mal produzieren. 
+Ich persönlich finde diese Beispiele immer etwas schwierig, da sie Einfachheit vorspielen. Klar, auf einem technischen Level ist das alles viel simpler, als auf einer grünen Wiese damit zu beginnen. Aber so eine Wolkenerkennung trainiert sich auch nicht mit 3 getagten Bildern. Im Beipspiel trainierte er den Service mit hunderten getagter Bilder pro Wolkenart. Diese muss man eben auch erst mal produzieren. 
 
 ## Digitalpolitik 2018 - geht da noch was?
 
@@ -228,9 +228,9 @@ Digitalpolitik in Deutschland ist für Nico Lumma "Fake it until you make it". J
 
 ![](IMG_0639.jpg)
 
-Für mich ist Nico Lummas Auftreten die wandelnde Bildkolumne. Mit dem Unterschied, dass er meistens recht hat mit dem, was er sagt. Er versteht es aber, es unterhaltsam und eindringlich vorzutragen.
+Für mich ist Nico Lummas Auftreten die wandelnde Bildkolumne. Mit dem Unterschied, dass er meistens recht hat mit dem, was er sagt. Er versteht es, unterhaltsam und eindringlich vorzutragen.
 
-Er beklagt in diesem Talk die Prioritäten, die in unserer Politik derzeit - und auch schon seit langer Zeit - gesetzt werden. Als einen Grund für den Mangel an Digitalthemen ist, dass man einen Mindestlohn einfach besser den Leuten erklären kann.
+Nico beklagt in diesem Talk die Prioritäten, die in unserer Politik derzeit - und auch schon seit langer Zeit - gesetzt werden. Als einen Grund für den Mangel an Digitalthemen ist, dass man einen Mindestlohn einfach besser den Leuten erklären kann als die Notwendigkeit eines Breitbandausbaus.
 
 Und eigentlich sind die Vorraussetzungen für ein Vorankommen in der Digitalpolitik ganz gut. 90% aller Deutschen über 14 Jahre sind online. Es handelt sich durchaus um ein aktuelles Thema.
 
@@ -246,7 +246,7 @@ Das Bildungssystem wird nicht verändert, "das könnte ja Leute irritieren".
 
 Wie kommen wir jetzt weiter?
 
-Mit MdB reden und vom Leben erzählen. Die wissen das nicht und es interessiert sie. WIr haben nicht die Lobby, wie sie z.B. VW hat. Aber wir sind viele. Leider sind wir gleichzeitig sehr zersplittet, und werden deshalb nicht wahrgenommen.
+Nico empfiehlt, mit einem MdB zu reden und vom Leben erzählen. Die wissen das nicht und es interessiert sie. Wir asl ITler haben nicht die Lobby, wie sie zum Beispiel VW hat. Aber wir sind viele. Leider sind wir gleichzeitig sehr zersplittet, und werden deshalb nicht wahrgenommen.
 
 China, USA und Europa fechten gerade die Digitale Zukunft aus. Wir sollten da mitmachen.
 
@@ -256,7 +256,7 @@ Ein spannender Talk, der in seiner Art etwas populistisch rüberkam, aber vielle
 
 #### Konstantin Möllers - Baqend
 
-Der zweite Talk über WebAssembly, dieses mal mit etwas mehr Fokus auf WebAssembly und weniger auf go. Das könnte daran liegen, dass Konstantin mit Rust arbeitete, das ist aber nur eine Vermutung.
+Der zweite Talk über WebAssembly, dieses mal mit etwas mehr Fokus auf WebAssembly und weniger auf Go, was daran liegt, dass Konstantin mit Rust arbeitet.
 
 ![](IMG_0646.jpg)
 
@@ -268,11 +268,11 @@ Ein Nachteil ist aktuell noch, dass es schwer zu debuggen ist, man sieht nur den
 
 ![](IMG_0647.jpg)
 
-Interessant fand ich die Tatsache, dass es in wasm kein string, boolean usw. gibt. Nur int32, int64... sind dort vorhanden. IN Rust und Go wird sich aber mit gluecode darum gekümmert, sodass man dort diese Typen verwenden kann. Alles andere wäre auch absurd.
+Interessant fand ich die Tatsache, dass es in wasm kein string, boolean usw. gibt. Nur int32, int64 und so weiter sind dort vorhanden. In Rust und Go wird sich aber mit Gluecode darum gekümmert, sodass man dort diese Typen verwenden kann. Alles andere wäre auch absurd.
 
 ![](IMG_0652.jpg)
 
-Schön waren die Benchmarks, die Konstantin präsentierte.
+Schön waren die Benchmarks, die Konstantin präsentierte, um zu zeigen, wie viel schneller wasm im Vergleich zu JS tatsächlich ist. Den größten boost sieht man dabei in Safari, wobei man auch sehen muss, dass Safari bei JS besonders langsam ist im Vergleich zu den anderen Browsern. In wasm trumpft Safari dann auf, was den großen Sprung erklärt.
 
 ## Nicht du bist das Problem, sondern die Kompexität
 
@@ -282,7 +282,7 @@ Ein sehr eindrücklicher Talk von Alexander. Was ist uns unsere begrenzte Lebens
 
 ![](IMG_0659.jpg)
 
-Alexander präsentier ein Manifest für ein besseres Leben. Er will Entwicklern bewusst machen, dass sie schlechte Arbeitsbedingungen, schlechten Code und schlechtes Management nicht tollerieren sollen und müssen.
+Alexander präsentierte ein Manifest für ein besseres Leben. Er will Entwicklern bewusst machen, dass sie schlechte Arbeitsbedingungen, schlechten Code und schlechtes Management nicht tollerieren sollen und müssen.
 
 ![](IMG_0660.jpg)
 
@@ -292,7 +292,7 @@ Wir sind keine Resource. Wir sollten uns nicht als solche behandeln lassen.
 
 ## Fazit
 
-Eine sehr unterhaltsame und gut organisierte Veranstaltung. Über die Umstände kann man nur eine typische Postkarte schreiben: Essen lecker, Party gut, Leute nett. Gerne wieder.
+Eine sehr unterhaltsame und gut organisierte Veranstaltung. Über die sonstigen Begebenheiten kann man eine typische Postkarte schreiben: Essen lecker, Party gut, Leute nett. Gerne wieder.
 
 Gespräche kamen einige sehr interessante zu Stande - der eigentliche Grund, warum man zu solchen Konferenzen geht, meiner Meinung nach. Diese Gespräche werde ich hier aus persönlichkeitsrechtlichen Gründen nicht rezitieren, da sie - auch wenn auf einer großen Konferenz gehalten - im Privaten stattfanden.
 
