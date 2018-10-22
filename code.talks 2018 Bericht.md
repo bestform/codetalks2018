@@ -18,7 +18,7 @@ Die Veranstaltung wird finanziert von Sponsoren und AboutYou. Es werden auch kos
 
 ![](IMG_0644.jpg)
 
-Auch wenn es auffällt, dass beispielsweise im Vergleich zu der jährlichen Symfony Live durchaus einige weibliche Mitglieder der Community anzutreffen waren, beklagte der Veranstalter bei der Eröffnung das immer noch eklatante Geschlächterverhältnis. Die Veranstaltung gibt sich sehr viel Mühe, unterrepräsentierte Gruppen besser zu fördern und auf der Veranstaltung zu begrüßen. Das gelinge allerdings trotz starker Bemühungen immer noch nicht zufriedenstellend.
+Auch wenn es auffällt, dass beispielsweise im Vergleich zu der jährlichen Symfony Live durchaus einige weibliche Mitglieder der Community anzutreffen waren, beklagte der Veranstalter bei der Eröffnung das immer noch eklatante Geschlechterverhältnis. Die Veranstaltung gibt sich sehr viel Mühe, unterrepräsentierte Gruppen besser zu fördern und auf der Veranstaltung zu begrüßen. Das gelinge allerdings trotz starker Bemühungen immer noch nicht zufriedenstellend.
 
 ## Die Location
 
