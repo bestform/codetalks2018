@@ -4,25 +4,25 @@
 
 ## Der Aufhänger
 
-ESONO bietet seinen Entwicklern pro Jahr fünf RnD (Research and Development) Tage an. In diesen Tagen kann jeder Entwickler selbst entscheiden, mit was er sich gerne beschäftigen würde. Eine Option ist auch der Besuch einer Konferenz. Ein Kollege und ich entschieden uns für letzteres und ich will ein paar Worte über unsere Erfahrung dort verlieren.
+ESONO bietet seinen Entwicklern pro Jahr fünf RnD (Research and Development) Tage an. In diesen Tagen kann jeder Entwickler selbst entscheiden, mit was er sich gerne beschäftigen würde. Eine Option ist auch der Besuch einer Konferenz. Ein Kollege und ich entschieden uns für Letzteres und ich will ein paar Worte über unsere Erfahrung dort verlieren.
 
-Alle Meinungen und Bewertungen über Sachverhalte, Talks und Teilnehmer sind natürlich meine ganz persönlichen und repräsentieren nicht zwangsläufig die Einstellung von ESONO und dessen Mitarbeiter.
+Alle Meinungen und Bewertungen über Sachverhalte, Talks und Teilnehmer sind natürlich meine ganz persönlichen und repräsentieren nicht zwangsläufig die Einstellung von ESONO und deren Mitarbeiter.
 
 ## Die Veranstaltung
 
 ![](IMG_0645.jpg)
 
-Die code.talks sind eine non-profit Veranstalung, die sich an Entwickler aus allen Bereichen wendet. Durch die aktuelle IT Landschaft konzentrierten sich viele Talks aber auf den Bereich der Webentwicklung.
+Die code.talks sind eine non-profit Veranstaltung, die sich an Entwickler aus allen Bereichen wendet. Durch die aktuelle IT-Landschaft konzentrierten sich viele Talks aber auf den Bereich der Webentwicklung.
 
 Die Veranstaltung wird finanziert von Sponsoren und AboutYou. Es werden auch kostenlose Tickets an Studenten und Programmierer in der Ausbildung gegeben, um den Nachwuchs zu fördern. Das Konzept ist sehr zu begrüßen und sorgte dafür, dass das Publikum nicht nur aus Abgesandten großer Firmen bestand.
 
 ![](IMG_0644.jpg)
 
-Auch wenn es auffällt, dass beispielsweise im Vergleich zu der jährlichen Symfony Live durchaus einige weibliche Mitglieder der Community anzutreffen waren, beklagte der Veranstalter bei der Eröffnung das immer noch eklatante Geschlechterverhältnis. Die Veranstaltung gibt sich sehr viel Mühe, unterrepräsentierte Gruppen besser zu fördern und auf der Veranstaltung zu begrüßen. Das gelinge allerdings trotz starker Bemühungen immer noch nicht zufriedenstellend.
+Auch wenn es auffällt, dass beispielsweise im Vergleich zu der jährlichen Symfony Live durchaus einige weibliche Mitglieder der Community anzutreffen waren, beklagte der Veranstalter bei der Eröffnung das immer noch eklatant ungleiche Geschlechterverhältnis. Die Veranstaltung gibt sich sehr viel Mühe, unterrepräsentierte Gruppen besser zu fördern und auf der Veranstaltung zu begrüßen. Das gelinge allerdings trotz starker Bemühungen immer noch nicht zufriedenstellend.
 
 ## Die Location
 
-Die code.talks fanden - wie jedes Jahr - in einem Cinemaxx Kino statt. Ein Kino ist im Grunde ein sehr guter Ort für eine derartige Veranstaltung, da es viele große Räume für Vorträge gibt. Diese haben sensationell große Leinwände für die Slides und ein gutes Bilckfeld für jeden Besucher. 
+Die code.talks fanden - wie jedes Jahr - in einem Cinemaxx Kino statt. Ein Kino ist im Grunde ein sehr guter Ort für eine derartige Veranstaltung, da es viele große Räume für Vorträge gibt. Diese haben sensationell große Leinwände für die Slides und ein gutes Blickfeld für jeden Besucher. 
 
 ![](IMG_0604.jpg)
 
@@ -48,7 +48,7 @@ Auch wenn der Talk einige interessante Punkte und Informationen enthielt, geriet
 
 ![](IMG_0587.jpg)
 
-Es wurden auch die Tracks einzeln von den jeweiligen Kuratoren vorgestellt. Das ist im Prinzip eine gute Idee, allerdings artete es ein bisschen in eine trockene Aufzählung der Vortäge aus. Das war redundant und nicht informativ. Dennoch begrüße ich diese Art der Einführungsveranstaltung. Sie ist ein guter Einstieg, der die Motivation und das Konzept einer Konferenz aufzeigt.
+Es wurden auch die Tracks einzeln von den jeweiligen Kuratoren vorgestellt. Das ist im Prinzip eine gute Idee, allerdings artete es ein bisschen in eine trockene Aufzählung der Vorträge aus. Das war redundant und nicht informativ. Dennoch begrüße ich diese Art der Einführungsveranstaltung. Sie ist ein guter Einstieg, der die Motivation und das Konzept einer Konferenz aufzeigt.
 
 ## All your money belongs to us (me)
 
@@ -56,11 +56,11 @@ Es wurden auch die Tracks einzeln von den jeweiligen Kuratoren vorgestellt. Das 
 
 Auf vergangenen Veranstaltungen des Chaos Computer Clubs hat man bereits sehr interessante Vorträge zum Thema gesehen: Das Kompromittieren von Mobile Banking Apps.
 
-Der hier beschriebene Angriff - am Beispiel der PayPal App - nutzte Code Injection zu Runtime.
+Der hier beschriebene Angriff - am Beispiel der PayPal App - nutzte Code Injection zur Runtime.
 
 ![](IMG_0590.jpg)
 
-Hier wird direkt Java Code der laufenden App manipuliert. Das ist natürlich nur durch die Kompromittierung des Gerätes möglich, wogegen die App nicht wirklich etwas unternehmen kann, selbst wenn sie wollte. Aber Denis bemerkt, dass das vor allem ein PR Desaster für den Anbieter darstellt, was ein einteressanter Punkt ist. Konsumenten ist es egal, wie absurd der Angriff ist. Wenn er gezeigt wird, ist es das Problem des Anbieters.
+Hier wird direkt Java Code der laufenden App manipuliert. Das ist natürlich nur durch die Kompromittierung des Gerätes möglich, wogegen die App nicht wirklich etwas unternehmen kann, selbst wenn sie wollte. Aber Denis bemerkt, dass das vor allem ein PR Desaster für den Anbieter darstellt, was ein interessanter Punkt ist. Konsumenten ist es egal, wie absurd der Angriff ist. Wenn er gezeigt wird, ist es das Problem des Anbieters.
 
 Wichtigster Hinweis des Vortrags zum Schutz vor derartigen Angriffen: Update your Phones!
 
@@ -76,7 +76,7 @@ Denis blieb beim gesamten Vortrag oberflächlich und gab einen nur im Ansatz tec
 
 #### Ksenia Nekrasova - Google
 
-Auch google war mit meheren Vorträgen bei den code.talks. Im Grunde wollte google hier ihre neuen Produkte im Bereich ML vorstellen.
+Auch google war mit mehreren Vorträgen bei den code.talks. Im Grunde wollte google hier ihre neuen Produkte im Bereich ML vorstellen.
 
 ![](IMG_0592.jpg)
 
@@ -112,11 +112,11 @@ Gerhard fing gleich mit den berühmt berüchtigten 419 Scam Mails an. Das sind d
 
 Erstaunlicherweise sind diese Scam Mails - so absurd und offensichtlich sie sind - bis heute erfolgreich. Es gibt immer noch Opfer, die darauf hereinfallen. Sein Fazit dazu: "Gier ist ein schlechter Berater".
 
-Desweiteren stelle Gerhard eine Drohung vor, die mir bisher noch nicht untergekommen ist, die aber wohl auch verbreitet ist: Zahle oder wir fahren eine DDoS Attacke auf deinen Server. Auf die Frage, ob man denn zahlen sollte, meinte er, dass dann nur der nächste kommen würde, da es einfach zu viele socher Kriminellen gibt. Er würde aber nicht so weit gehen, sie als vernetzt anzusehen, nach dem Motto: "Schau mal, der hat bei mir gezahlt, greif den mal an!"
+Desweiteren stelle Gerhard eine Drohung vor, die mir bisher noch nicht untergekommen ist, die aber wohl auch verbreitet ist: Zahle oder wir fahren eine DDoS Attacke auf deinen Server. Auf die Frage, ob man denn zahlen sollte, meinte er, dass dann nur der nächste kommen würde, da es einfach zu viele solcher Kriminellen gibt. Er würde aber nicht so weit gehen, sie als vernetzt anzusehen, nach dem Motto: "Schau mal, der hat bei mir gezahlt, greif den mal an!"
 
 ![](IMG_0598.jpg)
 
-Am häuigsten wird Retail Opfer dieser Angriffe.
+Am häufigsten wird Retail Opfer dieser Angriffe.
 
 Gerhard stellte außerdem folgenden schönen Angriffsvektor vor: Sonos hacken und darüber Alexa steuern. Next Level: Per Ultraschall mit Siri sprechen. Das klingt lustig und abgefahren, ist aber ein realer Angriff.
 
@@ -148,7 +148,7 @@ Bekämpft den Burn Out, fordert gute Bedingungen ein, schaut auf euch und eure G
 
 #### Gernot Starke - INNOQ
 
-Gernot wurde mir im Vorfeld bereits empfohlen als guter Speaker und Mensch mit Anhnung. Ich habe seine Bücher bisher nicht gelesen, aber nach dem Vortrag sind sie auf jeden Fall auf meiner Liste gelandet.
+Gernot wurde mir im Vorfeld bereits empfohlen als guter Speaker und Mensch mit Ahnung. Ich habe seine Bücher bisher nicht gelesen, aber nach dem Vortrag sind sie auf jeden Fall auf meiner Liste gelandet.
 
 ![](IMG_0612.jpg)
 
@@ -166,7 +166,7 @@ Ein wichtiger Punkt, den er anspricht, ist, dass Problemraum und Lösungsraum vo
 
 Und auch Gernot spricht das wiederkehrende Thema an:
 
-"Ohne Innovation sinkt der Marktwert der Entwicker!"
+"Ohne Innovation sinkt der Marktwert der Entwickler!"
 
 ![](IMG_0614.jpg)
 
@@ -178,13 +178,13 @@ Um ein System zu verbessern, muss man Verbesserungen mit dem Tagesgeschäft komb
 
 #### Guus van Weelden - Loodse
 
-Guus beschreibt in seinem Talk das experimentelle Feature des WebAssembly compliation targets in go 1.11. 
+Guus beschreibt in seinem Talk das experimentelle Feature des WebAssembly compilation targets in go 1.11. 
 
 ![](IMG_0616.jpg)
 
 WebAssembly ist ein Binary Instruction Format für den Browser, das im Vergleich zu JavaScript eine kleinere Dateigröße und eine schnellere Ausführung bietet. Das mit der kleineren Dateigröße ist aber aktuell bei wasm Modulen, die aus go kommen, noch nicht wirklich gegeben, da diese immer mindestens 2MB (500kb compressed) groß sind. Dafür genießt man die Vorteile von go, also zum Beispiel bestehende Libraries und Typensicherheit.
 
-Theoretisch ist es dadurch auch möglich, den selben Code im Frontend und Backend zu verwenden (code sharing). Das ist aber etwas, das in meiner Erfahrung immer nur im theoretischen Beispiel (Input Validation) vorkommt und in der Praxis so gut wie nie hilfreich ist. Frontend und Backend sind zwei derart unterscheidliche Welten, da ist fehlendes Codesharing das letzte Problem, das mir einfällt.
+Theoretisch ist es dadurch auch möglich, den selben Code im Frontend und Backend zu verwenden (code sharing). Das ist aber etwas, das in meiner Erfahrung immer nur im theoretischen Beispiel (Input Validation) vorkommt und in der Praxis so gut wie nie hilfreich ist. Frontend und Backend sind zwei derart unterschiedliche Welten, da ist fehlendes Codesharing das letzte Problem, das mir einfällt.
 
 Darüber hinaus ist wasm aber sicherlich effektiver, standardisiert, sandboxed und bietet support für viele unterschiedliche Sprachen.
 
@@ -198,7 +198,7 @@ Ich werden noch ein mal etwas auf WebAssembly eingehen in einem späteren Talk.
 
 #### Laurent Picard - Google
 
-Wieder ein Vortrag von google, dieses mal mit dem sehr sympatischen Franzosen Laurent Picard. Er sprach über die Machine Learning APIs (Image, Text, Speech) von google.
+Wieder ein Vortrag von google, dieses mal mit dem sehr sympathischen Franzosen Laurent Picard. Er sprach über die Machine Learning APIs (Image, Text, Speech) von google.
 
 ![](IMG_0628.jpg)
 
@@ -214,11 +214,11 @@ Kurz stellte Laurent auch noch die Text-To-Speech API vor, welcher er in einem p
 
 ![](IMG_0631.jpg)
 
-AutoML kam ebendalls zur Sprache. Damit kann man seine eigenen Daten trainieren und eine eigene API in der Cloud haben. Als Beispiel stellte er vor, wie man damit der Visions API beibringen kann, nicht nur Wolken als solche zu erkennen, sondern auch deren Typ. Hierzu trainiert man AutoML mit eigenen Bilddaten. 
+AutoML kam ebenfalls zur Sprache. Damit kann man seine eigenen Daten trainieren und eine eigene API in der Cloud haben. Als Beispiel stellte er vor, wie man damit der Visions API beibringen kann, nicht nur Wolken als solche zu erkennen, sondern auch deren Typ. Hierzu trainiert man AutoML mit eigenen Bilddaten. 
 
 ![](IMG_0636.jpg)
 
-Ich persönlich finde diese Beispiele immer etwas schwierig, da sie Einfachheit vorspielen. Klar, auf einem technischen Level ist das alles viel simpler, als auf einer grünen Wiese damit zu beginnen. Aber so eine Wolkenerkennung trainiert sich auch nicht mit 3 getagten Bildern. Im Beipspiel trainierte er den Service mit hunderten getagter Bilder pro Wolkenart. Diese muss man eben auch erst mal produzieren. 
+Ich persönlich finde diese Beispiele immer etwas schwierig, da sie Einfachheit vorspielen. Klar, auf einem technischen Level ist das alles viel simpler, als auf einer grünen Wiese damit zu beginnen. Aber so eine Wolkenerkennung trainiert sich auch nicht mit 3 getagten Bildern. Im Beispiel trainierte er den Service mit hunderten getagter Bilder pro Wolkenart. Diese muss man eben auch erst mal produzieren. 
 
 ## Digitalpolitik 2018 - geht da noch was?
 
@@ -232,7 +232,7 @@ Für mich ist Nico Lummas Auftreten die wandelnde Bildkolumne. Mit dem Unterschi
 
 Nico beklagt in diesem Talk die Prioritäten, die in unserer Politik derzeit - und auch schon seit langer Zeit - gesetzt werden. Als einen Grund für den Mangel an Digitalthemen ist, dass man einen Mindestlohn einfach besser den Leuten erklären kann als die Notwendigkeit eines Breitbandausbaus.
 
-Und eigentlich sind die Vorraussetzungen für ein Vorankommen in der Digitalpolitik ganz gut. 90% aller Deutschen über 14 Jahre sind online. Es handelt sich durchaus um ein aktuelles Thema.
+Und eigentlich sind die Voraussetzungen für ein Vorankommen in der Digitalpolitik ganz gut. 90% aller Deutschen über 14 Jahre sind online. Es handelt sich durchaus um ein aktuelles Thema.
 
 ![](IMG_0642.jpg)
 
@@ -274,7 +274,7 @@ Interessant fand ich die Tatsache, dass es in wasm kein string, boolean usw. gib
 
 Schön waren die Benchmarks, die Konstantin präsentierte, um zu zeigen, wie viel schneller wasm im Vergleich zu JS tatsächlich ist. Den größten boost sieht man dabei in Safari, wobei man auch sehen muss, dass Safari bei JS besonders langsam ist im Vergleich zu den anderen Browsern. In wasm trumpft Safari dann auf, was den großen Sprung erklärt.
 
-## Nicht du bist das Problem, sondern die Kompexität
+## Nicht du bist das Problem, sondern die Komplexität
 
 #### Alexander Jäger - Trustedshops
 
@@ -282,13 +282,13 @@ Ein sehr eindrücklicher Talk von Alexander. Was ist uns unsere begrenzte Lebens
 
 ![](IMG_0659.jpg)
 
-Alexander präsentierte ein Manifest für ein besseres Leben. Er will Entwicklern bewusst machen, dass sie schlechte Arbeitsbedingungen, schlechten Code und schlechtes Management nicht tollerieren sollen und müssen.
+Alexander präsentierte ein Manifest für ein besseres Leben. Er will Entwicklern bewusst machen, dass sie schlechte Arbeitsbedingungen, schlechten Code und schlechtes Management nicht tolerieren sollen und müssen.
 
 ![](IMG_0660.jpg)
 
 In vielen Betrieben werden die Entwickler verheizt. "Was, der hat Kopfschmerzen? Mach mal weniger Licht."
 
-Wir sind keine Resource. Wir sollten uns nicht als solche behandeln lassen.
+Wir sind keine Ressource. Wir sollten uns nicht als solche behandeln lassen.
 
 ## Fazit
 
