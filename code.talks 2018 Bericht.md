@@ -12,7 +12,7 @@ Alle Meinungen und Bewertungen über Sachverhalte, Talks und Teilnehmer sind nat
 
 ![](IMG_0645.jpg)
 
-Die code.talks sind eine non-profit Veranstaltung, die sich an Entwickler aus allen Bereichen wendet. Durch die aktuelle IT-Landschaft konzentrierten sich viele Talks aber auf den Bereich der Webentwicklung.
+Die code.talks sind eine non-profit Veranstaltung, die sich an Entwickler aus dem weit gefassten Bereich der Web-Entwicklung wendet.
 
 Die Veranstaltung wird finanziert von Sponsoren und AboutYou. Es werden auch kostenlose Tickets an Studenten und Programmierer in der Ausbildung gegeben, um den Nachwuchs zu fördern. Das Konzept ist sehr zu begrüßen und sorgte dafür, dass das Publikum nicht nur aus Abgesandten großer Firmen bestand.
 
@@ -26,7 +26,7 @@ Die code.talks fanden - wie jedes Jahr - in einem Cinemaxx Kino statt. Ein Kino 
 
 ![](IMG_0604.jpg)
 
-Kinosessel sind für einen zwei Stunden langen Film vielleicht noch in Ordnung, wenn man allerdings zwei Tage hintereinander insgesammt gefühlte 80000 Stunden in ihnen verbringt, schwindet die Begeisterung ein wenig. Gepaart mit schwindendem Sauerstoffgehalt in der Luft und fehlendem Sonnenlicht, stellt das ganze dann eine Herausforderung der ganz besonderen Art dar. 
+Kinosessel sind für einen zwei Stunden langen Film vielleicht noch in Ordnung, wenn man allerdings zwei Tage hintereinander insgesamt gefühlte 80000 Stunden in ihnen verbringt, schwindet die Begeisterung ein wenig. Gepaart mit schwindendem Sauerstoffgehalt in der Luft und fehlendem Sonnenlicht stellt das Ganze dann eine Herausforderung der ganz besonderen Art dar. 
 
 ## ESONO bei den code.talks
 
@@ -36,7 +36,7 @@ Laut Veranstalter gab es mehrere hundert Entwickler auf der Warteliste für Tick
 
 ## Die Tracks
 
-Die Veranstaltung bot insgesamt 16 Tracks an, die von Mobile, über Management bis zu Security reichten und im Grunde das komplette Spektrum der Entwicklerszene abdeckten. Pro Slot gab es 8 parallele Tracks, was durchaus zu einigen Konflikten führen konnte, auch wenn die Tracks hinreichend unterschiedlich waren, sodass man ein einigermaßen konsistentes Konferenzprogramm zusammenstellen konnte, ohne auf persönliche must-see Vorträge verzichten zu müssen.
+Die Veranstaltung bot insgesamt 16 Tracks an, die von Mobile, über Management bis zu Security reichten und im Grunde das komplette Spektrum der Entwicklerszene abdeckten. Pro Slot gab es 8 parallele Tracks, was durchaus zu einigen schwierigen Entscheidungen führen konnte, auch wenn die Tracks hinreichend unterschiedlich waren, so dass man ein einigermaßen konsistentes Konferenzprogramm zusammenstellen konnte, ohne auf persönliche must-see Vorträge verzichten zu müssen.
 
 Die Talks, die hier vorgestellt werden, sind diejenigen, für die ich mich entschieden habe. Über die anderen kann ich leider nichts sagen. Diese wurden zwar aufgezeichnet, aber wann und ob diese veröffentlicht werden, konnte mir niemand so recht beantworten.
 
@@ -76,7 +76,7 @@ Denis blieb beim gesamten Vortrag oberflächlich und gab einen nur im Ansatz tec
 
 #### Ksenia Nekrasova - Google
 
-Auch google war mit mehreren Vorträgen bei den code.talks. Im Grunde wollte google hier ihre neuen Produkte im Bereich ML vorstellen.
+Auch Google war mit mehreren Vorträgen bei den code.talks. Im Grunde wollte Google hier ihre neuen Produkte im Bereich Machine Learning vorstellen.
 
 ![](IMG_0592.jpg)
 
@@ -84,7 +84,7 @@ Dieser Vortrag hatte allerdings den Fokus auf Big Query und wie man die Google C
 
 Als Beispiel nahmen Ksenia und Christopher einen Hotelbetrieb, der seine Kunden besser analysieren möchte, um den Service zu verbessern.
 
-Als Datenquellen dienten ein Loyality Program, Website Analytics, Hotel Properties und room bookings. Alle Daten wurden zusammengesammelt und in ein google data warehouse gekippt. Das ganze System kann mit Daten von mehreren Petabytes umgehen. Dafür werden die Tables in einzelne Shards aufgeteilt, um sie besser skalieren zu können.
+Als Datenquellen dienten ein Loyality Program, Website Analytics, Hotel Properties und Room Bookings. Alle Daten wurden zusammengesammelt und in ein Google Data Warehouse gekippt. Das ganze System kann mit Daten von mehreren Petabytes umgehen. Dafür werden die Tables in einzelne Shards aufgeteilt, um sie besser skalieren zu können.
 
 ![](IMG_0593.jpg)
 
@@ -138,7 +138,7 @@ Es kommen immer mehr Tickets, immer mehr Bugs, die Arbeit wird zur Kesselflicker
 
 Das klingt übertrieben, aber so ist es leider in vielen Betrieben.
 
-Außerdem gibt er den guten Hinweis: Wenn du nur alten Legacy Code fixt, bist du nichts mehr Wert auf dem Markt, da Technologie voran schreitet, du selbst aber nicht. Das ist ein Hinweis, der sich durch die gesamte Veranstaltung und durch mehrere Talks hindurchzieht. Es scheint sich also um ein vorherrschendes Problem in der Entwicklerszene zu handeln. Entwickler verheizen sich mit dem Flicken alten Codes und werden dadurch nicht nur depressiv, sondern nehmen sich nach und nach auch immer mehr die Möglichkeit, am Markt noch mal zu etwas besserem zu kommen.
+Außerdem gibt er den guten Hinweis: Wenn du nur alten Legacy Code fixt, bist du nichts mehr Wert auf dem Markt, da Technologie voranschreitet, du selbst aber nicht. Das ist ein Hinweis, der sich durch die gesamte Veranstaltung und durch mehrere Talks hindurchzieht. Es scheint sich also um ein vorherrschendes Problem in der Entwicklerszene zu handeln. Entwickler verheizen sich mit dem Flicken alten Codes und werden dadurch nicht nur depressiv, sondern nehmen sich nach und nach auch immer mehr die Möglichkeit, am Markt noch mal zu etwas Besserem zu kommen.
 
 ![](IMG_0610.jpg)
 
@@ -160,7 +160,7 @@ Das Management hat bei einem Integrationsprojekt die beiden Ziele: Termin einhal
 
 ![](IMG_0613.jpg)
 
-Gerard stellt sein eigenes System aim42.org vor, das dabei helfen soll, derartige Projekte vernünftig zu planen.
+Gernot stellt sein eigenes System aim42.org vor, das dabei helfen soll, derartige Projekte vernünftig zu planen.
 
 Ein wichtiger Punkt, den er anspricht, ist, dass Problemraum und Lösungsraum voneinander getrennt werden müssen. Zu oft denken gerade Entwickler direkt in Lösungen - was nicht verwunderlich ist, da genau das ihr Job ist. 
 
@@ -178,37 +178,37 @@ Um ein System zu verbessern, muss man Verbesserungen mit dem Tagesgeschäft komb
 
 #### Guus van Weelden - Loodse
 
-Guus beschreibt in seinem Talk das experimentelle Feature des WebAssembly compilation targets in go 1.11. 
+Guus beschreibt in seinem Talk das experimentelle Feature des WebAssembly Compilation Targets in Go 1.11. 
 
 ![](IMG_0616.jpg)
 
-WebAssembly ist ein Binary Instruction Format für den Browser, das im Vergleich zu JavaScript eine kleinere Dateigröße und eine schnellere Ausführung bietet. Das mit der kleineren Dateigröße ist aber aktuell bei wasm Modulen, die aus go kommen, noch nicht wirklich gegeben, da diese immer mindestens 2MB (500kb compressed) groß sind. Dafür genießt man die Vorteile von go, also zum Beispiel bestehende Libraries und Typensicherheit.
+WebAssembly ist ein Binary Instruction Format für den Browser, das im Vergleich zu JavaScript eine kleinere Dateigröße und eine schnellere Ausführung bietet. Das mit der kleineren Dateigröße ist aber aktuell bei wasm Modulen, die aus Go kommen, noch nicht wirklich gegeben, da diese immer mindestens 2MB (500kb compressed) groß sind. Dafür genießt man die Vorteile von Go, also zum Beispiel bestehende Libraries und Typensicherheit.
 
 Theoretisch ist es dadurch auch möglich, den selben Code im Frontend und Backend zu verwenden (code sharing). Das ist aber etwas, das in meiner Erfahrung immer nur im theoretischen Beispiel (Input Validation) vorkommt und in der Praxis so gut wie nie hilfreich ist. Frontend und Backend sind zwei derart unterschiedliche Welten, da ist fehlendes Codesharing das letzte Problem, das mir einfällt.
 
-Darüber hinaus ist wasm aber sicherlich effektiver, standardisiert, sandboxed und bietet support für viele unterschiedliche Sprachen.
+Darüber hinaus ist wasm aber sicherlich effektiver, standardisiert, sandboxed und bietet Support für viele unterschiedliche Sprachen.
 
 WebAssembly unterstützt aktuell noch keine nativen DOM APIs. Hierfür muss noch Gluecode herhalten.
 
-Außerdem besteht noch kein Multithreading support.
+Außerdem besteht noch kein Multithreading-Support.
 
-Ich werden noch ein mal etwas auf WebAssembly eingehen in einem späteren Talk.
+Ich werde noch einmal etwas auf WebAssembly eingehen in einem späteren Talk.
 
 ## Building smarter apps with Machine Learning, from magic to reality
 
 #### Laurent Picard - Google
 
-Wieder ein Vortrag von google, dieses mal mit dem sehr sympathischen Franzosen Laurent Picard. Er sprach über die Machine Learning APIs (Image, Text, Speech) von google.
+Wieder ein Vortrag von Google, dieses Mal mit dem sehr sympathischen Franzosen Laurent Picard. Er sprach über die Machine Learning APIs (Image, Text, Speech) von Google.
 
 ![](IMG_0628.jpg)
 
-Das besondere an seinem Talk war, dass er das Publikum mit einbezog, was sehr mutig ist. Das Publikum war aber dankbar und bestrafte ihn nicht für seinen Mut. 
+Das Besondere an seinem Talk war, dass er das Publikum mit einbezog, was sehr mutig ist. Das Publikum war aber dankbar und bestrafte ihn nicht für seinen Mut. 
 
 Für die Visions API ließ er die Besucher Selfies hochladen, die dann mit einem Schnurrbart versehen wurden. Außerdem interpretierte die API die aktuelle Laune des Besuchers und gab Statistiken aus.
 
 ![](IMG_0630.jpg)
 
-Für die Translation API ließ er sich dann Texte schicken, die nach Englisch übersetzt wurden. Auch hier wurde die Emotion von dem Service interpretiert und prozentual ausgegeben.
+Für die Translation API ließ er sich dann Texte schicken, die ins Englische übersetzt wurden. Auch hier wurde die Emotion von dem Service interpretiert und mit einer prozentualen Einschätzung der Genauigkeit ausgegeben.
 
 Kurz stellte Laurent auch noch die Text-To-Speech API vor, welcher er in einem persönlichen Gespräch danach auch durchaus eine gewisse  Creepiness zusagte.
 
@@ -228,7 +228,7 @@ Digitalpolitik in Deutschland ist für Nico Lumma "Fake it until you make it". J
 
 ![](IMG_0639.jpg)
 
-Für mich ist Nico Lummas Auftreten die wandelnde Bildkolumne. Mit dem Unterschied, dass er meistens recht hat mit dem, was er sagt. Er versteht es, unterhaltsam und eindringlich vorzutragen.
+Für mich ist Nico Lummas Auftreten die wandelnde Bildkolumne. Mit dem Unterschied, dass er meistens Recht hat mit dem, was er sagt. Er versteht es, unterhaltsam und eindringlich vorzutragen.
 
 Nico beklagt in diesem Talk die Prioritäten, die in unserer Politik derzeit - und auch schon seit langer Zeit - gesetzt werden. Als einen Grund für den Mangel an Digitalthemen ist, dass man einen Mindestlohn einfach besser den Leuten erklären kann als die Notwendigkeit eines Breitbandausbaus.
 
@@ -240,15 +240,15 @@ Doch das Dauerthema sind Flüchtlinge. Nico Lumma will der Wichtigkeit des Thema
 
 Das Bildungssystem wird nicht verändert, "das könnte ja Leute irritieren".
 
-"Wir haben doch auch Wasser und Strom überall hinbekommen, warum dann nicht Breitband? Kostet 100 Milliarden. Ist machbar und finanzierbar." Dem ist wohl nicht viel hinzuzufügen, wobei man bei Nico besser noch mal die genannten Zahlen überprüfen sollte.
+"Wir haben doch auch Wasser und Strom überall hinbekommen, warum dann nicht Breitband? Kostet 100 Milliarden. Ist machbar und finanzierbar." Dem ist wohl nicht viel hinzuzufügen, wobei man bei Nico besser nochmal die genannten Zahlen überprüfen sollte.
 
 ![](IMG_0641.jpg)
 
 Wie kommen wir jetzt weiter?
 
-Nico empfiehlt, mit einem MdB zu reden und vom Leben erzählen. Die wissen das nicht und es interessiert sie. Wir asl ITler haben nicht die Lobby, wie sie zum Beispiel VW hat. Aber wir sind viele. Leider sind wir gleichzeitig sehr zersplittet, und werden deshalb nicht wahrgenommen.
+Nico empfiehlt, mit einem MdB zu reden und vom Leben zu erzählen. Die wissen das nicht und es interessiert sie. Wir als ITler haben nicht die Lobby, wie sie zum Beispiel VW hat. Aber wir sind viele. Leider sind wir gleichzeitig sehr zersplittert und werden deshalb nicht wahrgenommen.
 
-China, USA und Europa fechten gerade die Digitale Zukunft aus. Wir sollten da mitmachen.
+China, USA und Europa fechten gerade die digitale Zukunft aus. Wir sollten da mitmachen.
 
 Ein spannender Talk, der in seiner Art etwas populistisch rüberkam, aber vielleicht ist es genau das, was es manchmal braucht.
 
@@ -256,23 +256,23 @@ Ein spannender Talk, der in seiner Art etwas populistisch rüberkam, aber vielle
 
 #### Konstantin Möllers - Baqend
 
-Der zweite Talk über WebAssembly, dieses mal mit etwas mehr Fokus auf WebAssembly und weniger auf Go, was daran liegt, dass Konstantin mit Rust arbeitet.
+Der zweite Talk über WebAssembly, dieses Mal mit etwas mehr Fokus auf WebAssembly und weniger auf Go, was daran liegt, dass Konstantin mit Rust arbeitet.
 
 ![](IMG_0646.jpg)
 
-Der Talk ging etwas genauer auf die Eigenarten von WebAssembly (wasm) ein. Zum ersten mal hörte ich davon, dass es durchaus auch sinnvoll sein kann, wasm im Backend mit node.js zu verwenden, um dort Dinge zu beschleunigen.
+Der Talk ging etwas genauer auf die Eigenarten von WebAssembly (wasm) ein. Zum ersten Mal hörte ich davon, dass es durchaus auch sinnvoll sein kann, wasm im Backend mit node.js zu verwenden, um dort Dinge zu beschleunigen.
 
 Im Frontend unterstützt mittlerweile jeder aktuelle Browser die Ausführung von wasm.
 
-Ein Nachteil ist aktuell noch, dass es schwer zu debuggen ist, man sieht nur den stack based code im Browser. Das ist nur wenig hilfreich.
+Ein Nachteil ist aktuell noch, dass es schwer zu debuggen ist, man sieht nur den stack based Code im Browser. Das ist nur wenig hilfreich.
 
 ![](IMG_0647.jpg)
 
-Interessant fand ich die Tatsache, dass es in wasm kein string, boolean usw. gibt. Nur int32, int64 und so weiter sind dort vorhanden. In Rust und Go wird sich aber mit Gluecode darum gekümmert, sodass man dort diese Typen verwenden kann. Alles andere wäre auch absurd.
+Interessant fand ich die Tatsache, dass es in wasm kein string, boolean usw. gibt. Nur int32, int64 und so weiter sind dort vorhanden. In Rust und Go wird sich aber mit Gluecode darum gekümmert, so dass man dort diese Typen verwenden kann. Alles andere wäre auch absurd.
 
 ![](IMG_0652.jpg)
 
-Schön waren die Benchmarks, die Konstantin präsentierte, um zu zeigen, wie viel schneller wasm im Vergleich zu JS tatsächlich ist. Den größten boost sieht man dabei in Safari, wobei man auch sehen muss, dass Safari bei JS besonders langsam ist im Vergleich zu den anderen Browsern. In wasm trumpft Safari dann auf, was den großen Sprung erklärt.
+Schön waren die Benchmarks, die Konstantin präsentierte, um zu zeigen, wie viel schneller wasm im Vergleich zu JS tatsächlich ist. Den größten Boost sieht man dabei in Safari, wobei man auch sehen muss, dass Safari bei JS besonders langsam ist im Vergleich zu den anderen Browsern. In wasm trumpft Safari dann auf, was den großen Sprung erklärt.
 
 ## Nicht du bist das Problem, sondern die Komplexität
 
