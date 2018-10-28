@@ -4,9 +4,10 @@
 
 ## Der Aufhänger
 
-ESONO bietet seinen Entwicklern pro Jahr fünf RnD (Research and Development) Tage an. In diesen Tagen kann jeder Entwickler selbst entscheiden, mit was er sich gerne beschäftigen würde. Eine Option ist auch der Besuch einer Konferenz. Ein Kollege und ich entschieden uns für Letzteres und ich will ein paar Worte über unsere Erfahrung dort verlieren.
+ESONO bietet seinen Entwicklern pro Jahr fünf RnD (Research and Development) Tage an. In diesen Tagen kann jeder Entwickler selbst entscheiden, mit was er sich gerne beschäftigen würde. Eine Option ist auch der Besuch einer Konferenz. Mein Kollege Stefan und ich entschieden uns für Letzteres und ich will ein paar Worte über unsere Erfahrung dort verlieren.
 
 Alle Meinungen und Bewertungen über Sachverhalte, Talks und Teilnehmer sind natürlich meine ganz persönlichen und repräsentieren nicht zwangsläufig die Einstellung von ESONO und deren Mitarbeiter.
+Stefans Ergänzungen sind jeweils markiert, für diese gilt das natürlich entsprechend.
 
 ## Die Veranstaltung
 
@@ -70,6 +71,18 @@ Dementsprechend sind auch hauptsächlich alte, niemals aktualisierte Android Tel
 
 Denis blieb beim gesamten Vortrag oberflächlich und gab einen nur im Ansatz technischen Einblick in die Methoden. Das hat mich ein wenig enttäuscht, aber das ist kein Problem von Denis' Vortrag sondern von meinen Erwartungen. 
 
+## Making your website WCAG Compliant
+
+#### Aayush Arora - Coding Blocks
+
+(Stefan)
+
+Aayush brachte uns in diesem Vortrag die WCAG-Richtlinien (WCAG = Web Content Accessibility Guidelines) näher. Nach wie vor herrscht im gesamten Web Nachholbedarf in Sachen Accessibility, dabei ist es oft nicht schwer, Inhalte so zu präsentieren, dass sie auch von Menschen mit Einschränkungen genutzt werden können.
+
+Einige Standards wie skalierbare Texte, sinnvolle Alt-Attribute und hohe Kontraste waren mir bisher schon bewusst, aber einiges gelernt habe ich dennoch. Zum Beispiel, dass man bei der Gestaltung von Navigationsmenüs darauf achten sollte, dass diese Menüs übersprungen werden können, damit ein Screen Reader nicht ewige Listen von Navigationspunkten vorliest. Oder dass Untertitel für Videos recht einfach eingebunden werden können, auch wenn das Originalvideo das nicht vorsieht (WebVTT-Standard).
+
+Auch dass es Browser-Plugins (z.B. Accessibility Developer Tools in Chrome) und Web-Dienste (z.B. tenon.io) gibt, die beim Sicherstellen der WCAG-Compliance helfen, halte ich für wichtig; bisher kam mir das Thema Accessibility immer recht wenig greifbar vor, aber mit dem entsprechenden Tool-Support sollte es zukünftig deutlich leichter von der Hand gehen.
+
 ## Predictive Analytics with Big Query
 
 #### Christopher Denk - Google
@@ -102,6 +115,23 @@ Das Beispiel hier waren Kunden, die nicht angegeben haben, ob sie verheiratet si
 
 Insgesamt war das ein schöner Talk mit Live Demo und kompetenten Speakern.
 
+## Bug Bounty Programme: Belohnungen als Sicherheitskonzept
+
+#### Tim Philipp Schäfers - internetwache.org
+
+#### Sebastian Neef - internetwache.org
+
+(Stefan)
+
+Den Titel hatte ich so interpretiert, dass es viel darüber zu lernen gibt, wie man als Betreiber einer Website ein Bug-Bounty-Programm richtig aufsetzt. Im deutlich überwiegenden Teil beschäftigten sich die beiden Speaker aber mit der Gegenseite, also den "guten" Hackern, die Sicherheitslücken finden bevor es die "Bösen" tun und dabei helfen, diese Lücken zu schließen.
+
+Dennoch ein interessanter Vortrag, bei dem ich auch mitgenommen habe, dass es gar nicht immer so einfach ist, einen Betreiber zum Beheben von Sicherheitslücken zu bewegen. Auch ist es wohl ein häufiges Problem, bis zu den richtigen Ansprechpartnern durchzudringen und sich nicht an Support und Marketing aufreiben zu lassen (Tipp: security.txt ähnlich einer robots.txt).
+
+Wenn man ein Bug-Bounty-Programm aufsetzt, empfiehlt es sich, seine Website auf einschlägigen Portalen zu registrieren (auch um Freiwillige nicht den Risiken der Strafverfolgung nach dem deutschen Hacker-Paragraphen auszusetzen); dann sollte man aber für den Anfang viel Zeit einplanen, um Fehler zu beheben und generell entsprechende Anfragen zu beantworten. Offenbar muss man bei knapperen Finanzmitteln auch nicht unbedingt das große Geld in Aussicht stellen. Viele Hacker suchen auch mehr zum Spaß und freuen sich auch über kleinere Formen der Anerkennung. Vielleicht empfiehlt sich auch ein klassisches Audit als Vorbereitung, damit weniger Fehler übrigbleiben?
+
+Sehr nette Jungs, die im persönlichen Gespräch auch sehr interessiert und offen für eine Zusammenarbeit waren. Man bemerkt sofort, dass hier mit Spaß am Gerät gearbeitet wird.
+
+
 ## A day in the life of a security consultant - Story telling around DDoS and web attacks
 
 #### Gerhard Giese - Akamai
@@ -125,6 +155,22 @@ Sein Rat: Als Programmierer den Hut abnehmen, die Hacker Basecap aufsetzen und m
 ![](IMG_0601.jpg)
 
 Ein sehr unterhaltsamer und informativer Talk. 
+
+## 10 Years of open API
+
+#### Sumit Kumar - Car2go
+
+(Stefan)
+
+Ein Erfahrungsbericht aus 10 Jahren, in denen Car2go eine komplett offene API angeboten hatte, mit der die meisten Daten aus dem Car-Sharing-Betrieb ausgelesen werden konnten.
+
+Laut Sumit ein aus Entwicklersicht sehr befriedigender Ansatz, da Dritte damit Features beisteuern konnten, die die offizielle App und Website nicht oder noch nicht bieten konnten. Aus Betriebs- und Business-Sicht wohl nicht ganz unkritisch, da der stabile Betrieb nicht immer ganz leicht zu bewerkstelligen war und Mitbewerber sich ein gutes Bild von den Interna bei Car2go verschaffen konnten.
+Einige Tipps von Sumit (Auswahl):
+- Offene APIs immer getrennt von geschäftskritischer Infrastruktur betreiben, damit der eigene Geschäftsbetrieb nicht beeinträchtigt werden kann.
+- Rate Limis und API Tokens einführen, um steuern zu können, wie stark die API belastet wird und von wem.
+- Einige Zeit für die Strukturierung der API verwenden, sowie für die Ausgestaltung des Betriebs (z.B. Monitoring)
+
+Insgesamt ein Plädoyer für offene APIs, aber auch dafür, die Zügel fester in der Hand zu halten. Inhaltlich ist der Vortrag eventuell noch ausbaubar, aber die Offenheit war sehr angenehm. Und wenn ich einmal eine offene API baue, werde ich sicher dankbar für den einen oder anderen Tipp aus dem Vortrag sein.
 
 ## Software Qualität === Gesundheit
 
@@ -194,6 +240,22 @@ Außerdem besteht noch kein Multithreading-Support.
 
 Ich werde noch einmal etwas auf WebAssembly eingehen in einem späteren Talk.
 
+## Offene Kommunikation - der Schlüssel zur echten Teamarbeit
+
+#### Judith Andresen - Beratung Judith Andresen
+
+(Stefan)
+
+Ein weiterer nichttechnischer Vortrag, und auf jeden Fall einer der besten, die ich auf der Konferenz gehört habe. Judith stellte den Begriff der "echten" Teamarbeit vor und welche Schlüsselrolle offene Kommunikation dabei einnimmt.
+
+In einem "echten" Team arbeiten die Teammitglieder zusammen und stellen den gemeinsamen Erfolg über den persönlichen. Die Teammitglieder tragen gemeinsam Verantwortung, kennen ihre gegenseitigen Stärken und Schwächen, liefern Ergebnisse und haben dabei auch noch Spaß. Die Mitglieder definieren Werte, Normen und Regeln, bauen Wissen auf und transferieren dieses Wissen auch, was Lernfähigkeit und Lernwilligkeit voraussetzt.
+
+Ein nicht unwichtiger Indikator ist, dass jeder unbesorgt in Urlaub gehen kann, weil Aufgaben von den anderen Kollegen übernommen werden können. Wenn dagegen Aufgaben abgewälzt werden, sei es aus Unlust, weil Wissen nur bei Einzelpersonen liegt oder weil Einzelne die Hoheit über bestimmte Aufgaben einfordern, dann kann nicht von "echter" Teamarbeit gesprochen werden.
+
+Wichtig ist eben die Kommunikation, und das auf Augenhöhe (weder von oben herab noch "trotzig"). Insbesondere auf das Geben und Annehmen von Feedback sollte Augenmerk gelegt werden. Wer Feedback zu einer Situation gibt, sollte wertfrei seine Beobachtung schildern, seine eigene Reaktion erklären und dann einen eigenen Impuls setzen, welches Verhalten er in entsprechenden Situationen erwartet. Wer Feedback annimmt, sollte auch genau das tun: annehmen. Nicht gegenfeuern, sondern höchstens mit zeitlichem Abstand Feedback zum Feedback geben.
+
+Das nur als grobe Zusammenfassung - der Vortrag war sehr ergiebig (und dabei sympathisch und entspannt präsentiert). Überhaupt kann ich nur empfehlen, sich auf Technik-Konferenzen auch mit den nichttechnischen Themen zu beschäftigen. Mit Dingen wie Kommunikation und Selbstbeobachtung haben wir Entwickler ja oft gewisse Schwierigkeiten, obwohl das eigentlich essenzielle Fähigkeiten für uns sind.
+
 ## Building smarter apps with Machine Learning, from magic to reality
 
 #### Laurent Picard - Google
@@ -252,6 +314,21 @@ China, USA und Europa fechten gerade die digitale Zukunft aus. Wir sollten da mi
 
 Ein spannender Talk, der in seiner Art etwas populistisch rüberkam, aber vielleicht ist es genau das, was es manchmal braucht.
 
+## Service Workers: The Technology Behind Progressive Web Apps
+
+#### Felix Gessert - Baqend
+
+(Stefan)
+
+Einige Grundlagen und auch fortgeschrittene Beispiele für Service Workers.
+Service Workers sind eine der Basis-Techniken für Progressive Web Apps, die wiederum eigentlich nur eine Menge von Techniken darstellen, mit denen Web-Applikationen einige Vorteile von nativen Apps (Ladezeiten, Push-Notifications, Icon auf dem Home-Screen) abbekommen können.
+
+Service Workers sind dabei ein universell programmierbarer HTTP-Proxy, der prinzipiell sehr viele Möglichkeiten bietet, die Performance von Web-Applikationen zu verbessern. Als Standard-Anwendungsfall wird hier gerne das Laden und Cachen einer App Shell zitiert, so dass ab dem zweiten Seitenaufruf nur noch Nutzdaten geladen werden müssen und dadurch sehr viel Bandbreite/Datenvolumen eingespart werden kann.
+
+Felix zeigte aber auch den Anwendungsfall, dass der Service Worker einen HTTP Call abfängt und die URL des Aufrufs ändert, z.B. um ein CDN anzusteuern, das örtlich näher liegt und daher bessere Performance verspricht, oder um bereits gecachete Inhalte zurückzugeben.
+
+Nicht nur von der Zuhörerzahl, sondern auch inhaltlich ein sehr voller Vortrag, der wieder einmal bewusst macht, dass es sich lohnt, ein Konzept weiterzudenken als bis zu den üblichen 08/15-Beispielen.
+
 ## Creating High-Performance Web Apps with WebAssembly
 
 #### Konstantin Möllers - Baqend
@@ -273,6 +350,40 @@ Interessant fand ich die Tatsache, dass es in wasm kein string, boolean usw. gib
 ![](IMG_0652.jpg)
 
 Schön waren die Benchmarks, die Konstantin präsentierte, um zu zeigen, wie viel schneller wasm im Vergleich zu JS tatsächlich ist. Den größten Boost sieht man dabei in Safari, wobei man auch sehen muss, dass Safari bei JS besonders langsam ist im Vergleich zu den anderen Browsern. In wasm trumpft Safari dann auf, was den großen Sprung erklärt.
+
+## Alles Klamotte oder was? Erfahrungsbericht von der Herausforderung einem Bären Beine zu machen!
+
+#### Benedikt Stemmildt - E. Breuninger GmbH & Co.
+
+#### Katja Burkert - E. Breuninger GmbH & Co.
+
+(Stefan)
+
+An dieser Stelle zuerst einmal die Bitte an alle Speaker: Versucht nicht, so arg witzig mit euren Vortragstiteln zu sein. Auf der Konferenz gab es einige, bei denen ich mich überwinden musste, nach dem Titel überhaupt die Beschreibung zu lesen.
+Und bei diesem Vortrag hier wäre das schade gewesen, weil er durchaus interessant war.
+
+Es ging um die Modernisierung der Architektur der Website des Bekleidungsunternehmens Breuninger, die irgendwann an ihre Grenzen gestoßen war. Eine der wichtigeren Erkenntnisse für mich: Wenn die IT eine große Rolle für den Unternehmenserfolg spielt, reicht es nicht, die Software-Architektur zu verbessern, sondern man muss auch an der Unternehmensstruktur arbeiten. Auch wenn einem das halb-bewusst vielleicht schon klar ist (z.B. weil man schonmal von Conway's Law gehört hat), braucht es doch meistens einen Klick-Moment für die letzte Klarheit. Dafür schon einmal vielen Dank an die beiden Speaker.
+
+Inhaltlich lässt sich der Vortrag grob so zusammenfassen: Die Website von Breuninger wird nun aus mehreren Teilen zusammengesetzt, die jeweils unabhängig voneinander arbeiten, und für die jeweils ein eigenes Team verantwortlich ist (--> Vertikalisierung, da sich die Anwendung schematisch als Ansammlung verschiedener Teil-Anwendung darstellen lässt, die jeweils von der GUI bis zum Data Storage alle Schichten enthalten). Daten werden zwischen diesen Einzelteilen nur an streng festgelegten Schnittstellen übergeben, und zwar ausschließlich in Form von asynchronen Importen, nie als Teil eines Benutzer-Requests.
+Da Software- und Team-Organisation ähnlichen Strukturen folgen, sind auch die Teams weitgehend unabhängig. Für die übergreifenden Anforderungen wie Sicherheit, Architektur, UX, ... gibt es "Gilden", die sich aus je einem "Abgesandten" aus jedem Team zusammensetzen. Ansonsten reden auch die jeweiligen Product Owner miteinander. Für geteilte Software-Artefakte gilt, dass diese als versionierte Bibliotheken entwickelt werden sollten, so dass jedes Team unabhängig über Updates entscheiden kann und sich keine direkten Abhängigkeiten aufbauen.
+
+## Being headless but not thoughtless -- why an API based approach makes e-commerce fun for developers
+
+#### Harminder Virk - About You GmbH
+
+#### Jana Pölzl - About You GmbH
+
+#### Marten Westphal - About You GmbH
+
+(Stefan)
+
+Der Vortrag, auf den ich mich am meisten gefreut hatte, der mich dann aber leider am wenigsten überzeugt hat. Die Speaker gaben sich zwar große Mühe, aber inhaltlich hatte ich den Eindruck, als müsste unbedingt noch ein Vortrags-Slot gefüllt werden.
+
+Von der technischen Seite betonten die Speaker, dass der Umstieg auf AWS einen deutlichen Vorteil in Sachen Skalierung gebracht hat - da das eins der Hauptargumente der üblichen Cloud-Anbieter ist, war das nicht wirklich überraschend.
+
+Der interessanteste Teil befasste sich mit der API-Dokumentation. Es wurde ein Guide für Doku-Schreiber entwickelt, damit auch Team-übergreifend mit einheitlichen Standards geschrieben werden konnte. Als Grundstruktur wurde festgelegt, dass jedes Feature der API eine Kategorie in der Doku darstellt. In jede Seite wurde eine Bewertungs- und Kontaktmöglichkeit eingebaut, so dass direktes Feedback gegeben werden konnte. Auch eine Suchfunktion wurde integriert.
+
+Auch Nichttechniker sollten in der Lage sein, zu dokumentieren, daher wurde auf Markdown gesetzt - neben dem guten Tool-Support kann notfalls auch mit jedem Text-Editor geschrieben werden.
 
 ## Nicht du bist das Problem, sondern die Komplexität
 
